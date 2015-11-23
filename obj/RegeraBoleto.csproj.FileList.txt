@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegeraBoleto.Form1.resources
+obj\Debug\RegeraBoleto.Properties.Resources.resources
+obj\Debug\RegeraBoleto.csproj.GenerateResource.Cache
+bin\Debug\RegeraBoleto.exe
+bin\Debug\RegeraBoleto.pdb
+obj\Debug\RegeraBoleto.exe
+obj\Debug\RegeraBoleto.pdb
