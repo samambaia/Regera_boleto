@@ -118,7 +118,8 @@ namespace RegeraBoleto
             }
         }
 
-        private void sCodeBar1_TextChanged(object sender, EventArgs e)
+        //Mudei aqui
+	private void sCodeBar1_TextChanged(object sender, EventArgs e)
         {
             var tb = (sender as TextBox);
             switch ((tb.Name).Substring(8))
